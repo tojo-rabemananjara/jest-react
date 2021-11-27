@@ -16,3 +16,4 @@ A repository written for a blog post about testing React with Jest. Tutorial: ht
 
 [MIT](https://opensource.org/licenses/MIT)
 
+`From https://github.com/finallyayo/jest-react`
